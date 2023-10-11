@@ -1,5 +1,5 @@
 {
-    "name": "steamwebapi/php-steam-api",
+    "name": "kovalovme/php-steam-api",
     "description": "Steamwebapi PHP Package for CS:GO, RUST, DOTA - Inventory, Profile, SteamID API",
     "license": "MIT",
     "authors": [
